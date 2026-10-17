@@ -11,3 +11,4 @@ b = int(input("введите целое число b: "))
 
 print("c5")
 print("c6")
+print("c8'")
