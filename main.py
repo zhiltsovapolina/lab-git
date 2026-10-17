@@ -13,3 +13,4 @@ b = int(input("введите целое число b: "))
 print(f"{a} - {b}: a-b ")
 
 # commit c4
+# commit c5
