@@ -10,4 +10,4 @@ print(f"студент? {is_student}")
 a = int(input("введите целое число a: "))
 b = int(input("введите целое число b: "))
 
-print(f"{a} + {b}: a+b ")
+print(f"{a} - {b}: a-b ")
