@@ -11,3 +11,6 @@ b = int(input("введите целое число b: "))
 
 c=a+b
 print(f"c = {c}")
+
+d=a-b
+print(f"d = {d}")
